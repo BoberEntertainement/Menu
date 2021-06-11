@@ -1,0 +1,58 @@
+.version.index /* version checker */
+{
+	color: #00000E;
+	background-color: #3481DC;
+}
+
+.html
+{
+	background: #000000 url("../images/background%20bober%20web%20site%20(1).jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 880px;
+	min-height: 893px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #000000;
+	border-radius: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 20px 1142px;
+}
+
+#u185-4
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u182-4
+{
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	margin-left: 115px;
+	margin-top: 391px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 922px;
+	padding-top: 29px;
+	padding-bottom: 30px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

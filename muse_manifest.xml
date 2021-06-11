@@ -1,0 +1,28 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="MenuTheBlitzUnion.org" resolutions="1x" timestamp="1623428979617">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="238322140" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u154-7.png" crc="4270361782" ref="phone>index"/>
+    <file name="sushilab.png" crc="207253049" seo="true" ref="phone>index"/>
+    <file name="sans titre (2).jpg" crc="436870713" seo="true" ref="phone>index"/>
+    <file name="background bober web site (1).jpg" crc="4047125661" ref="index"/>
+    <file name="u185-4.png" crc="186084775" ref="index"/>
+    <file name="u182-4.png" crc="372579833" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4281946091" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4159348643" seo="true" mt="1623266397647" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="463807955" seo="true" mt="1623428945207" redirect="true"/>
+</manifest>
